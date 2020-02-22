@@ -28,7 +28,7 @@ to-lab-1-and-beyond.txt  xv6-riscv-fall19
 
 vagrant@6081:~$ cat to-lab-1-and-beyond.txt
 
-# and the so adventure begins.
+# and so the adventure begins.
 
 ```
 
